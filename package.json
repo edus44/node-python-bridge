@@ -1,0 +1,15 @@
+{
+  "name": "node-python-bridge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "PyBridge.js",
+  "dependencies": {
+    "python-shell": "^0.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

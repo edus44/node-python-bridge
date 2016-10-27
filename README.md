@@ -1,0 +1,1 @@
+Working example of messaging between nodejs and a spawned python proccess, using python-shell
