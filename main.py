@@ -12,7 +12,7 @@ def startListening():
         onMessage(message['name'],message['payload'] if ('payload' in message) else None)
 
 def onMessage(name,payload):
-    send('pong '+name,payload)
+    send('pong',payload)
 
 startListening()
 
